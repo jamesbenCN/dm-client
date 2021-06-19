@@ -20,5 +20,15 @@ npm run build
 npm run lint
 ```
 
+### 使用的VSCODE 插件
+```
+Chinese(Simplified) Language Pack for Visual Studio Code
+ESLint
+Live Server
+Vetur
+Vue3 Snippets
+vscode-icons
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
