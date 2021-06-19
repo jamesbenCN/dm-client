@@ -20,7 +20,7 @@ npm run build
 npm run lint
 ```
 
-### 使用的VSCODE 插件1
+### 使用的VSCODE 插件
 ```
 Chinese(Simplified) Language Pack for Visual Studio Code
 ESLint
