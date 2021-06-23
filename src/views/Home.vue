@@ -1,15 +1,13 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    
-  </div>
+  <wm-main>
+    <div class="index_test">
+      桌面
+    </div>
+  </wm-main>
 </template>
 
-<script lang="ts">
-import { defineComponent } from 'vue';
+<style scoped>
+.index_test{position: absolute; left: 50%; top: 50%; transform: translate(-50%,-50%);}
+</style>
 
-export default defineComponent({
-  name: 'Home',
-
-});
-</script>
+<script lang="ts" src="./Home.ts"></script>

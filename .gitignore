@@ -1,7 +1,8 @@
 .DS_Store
 node_modules
-/dist
 
+yarn.lock
+dist
 
 # local env files
 .env.local
@@ -21,4 +22,3 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
-sh.exe.stackdump
